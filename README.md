@@ -1,3 +1,16 @@
+## How to run the code
+
+1. Make sure the raw data file is named as "household_power_consumption.txt" and it is in your current working directory.
+2. Run code.
+
+## Outputs
+A new folder named "plots" will be created in your current working directory. New plots will be saved in that folder.
+
+
+
+****
+Original description below:
+****
 ## Introduction
 
 This assignment uses data from
@@ -111,4 +124,3 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-

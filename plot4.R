@@ -1,4 +1,4 @@
-png("plots/plot4.png", width = 480, height = 480)
+png("plot4.png", width = 480, height = 480)
 par(mfrow = c(2,2))
 plot(times, data$Global_active_power, type = "l", ylab = "Global Active Power (kilowatts)")
 plot(times, data$Voltage, type = "l", ylab = "Voltage")

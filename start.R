@@ -9,7 +9,7 @@ times = as.POSIXct(paste(data$Date, data$Time, sep = " ")) # full time. this wil
 
 
 ## Plots
-dir.create("plots")
+## dir.create("plots") ## Removed as asked to save the plots in "top-level folder"
 
 ## plot1.png
 source("plot1.R")

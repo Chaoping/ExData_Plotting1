@@ -1,7 +1,8 @@
 ## How to run the code
 
 1. Make sure the raw data file is named as "household_power_consumption.txt" and it is in your current working directory.
-2. Run code.
+2. Make sure all the .R files are also in the working directory.
+3. Run code.
 
 ## Outputs
 A new folder named "plots" will be created in your current working directory. New plots will be saved in that folder.

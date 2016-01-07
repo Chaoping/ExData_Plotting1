@@ -5,7 +5,8 @@
 3. Run code.
 
 ## Outputs
-A new folder named "plots" will be created in your current working directory. New plots will be saved in that folder.
+~~A new folder named "plots" will be created in your current working directory. New plots will be saved in that folder.~~
+Plots will be saved in your working directory.
 
 
 

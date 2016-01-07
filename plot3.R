@@ -1,3 +1,6 @@
+#################################################################
+## The script used to read in data is in the file start.R    ####
+#################################################################
 png("plot3.png", width = 480, height = 480)
 plot(times, data$Sub_metering_1, type = "l", ylab = "Energy sub metering")
 points(times, data$Sub_metering_2, col = "red", type = "l")
